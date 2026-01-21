@@ -28,14 +28,14 @@ This project was developed as part of a full-stack technical assessment to demon
 
 ---
 
-## 🚀 Live Application
+##  Live Application
 
 - **Frontend:** https://<YOUR-VERCEL-URL>
 - **Backend API:** https://<YOUR-RENDER-URL>
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Employee Management
 - Add new employees with unique Employee ID
@@ -49,7 +49,7 @@ This project was developed as part of a full-stack technical assessment to demon
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React (Vite)
@@ -69,7 +69,7 @@ This project was developed as part of a full-stack technical assessment to demon
 
 ---
 
-## ⚙️ Running the Project Locally
+## Running the Project Locally
 
 ### Prerequisites
 - Node.js (v16+)
