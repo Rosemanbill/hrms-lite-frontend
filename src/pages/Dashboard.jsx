@@ -1,6 +1,7 @@
 import EmployeeForm from "../components/EmployeeForm";
 import EmployeeList from "../components/EmployeeList";
 import AttendanceForm from "../components/AttendanceForm";
+import AttendanceList from "../components/AttendanceList";
 
 const Dashboard = () => {
   return (
@@ -10,6 +11,8 @@ const Dashboard = () => {
       <EmployeeForm />
       <EmployeeList />
       <AttendanceForm />
+      <AttendanceList />
+
     </div>
   );
 };
